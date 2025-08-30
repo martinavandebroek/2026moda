@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-```{r mODa-logo, out.width = "50%", fig.align = "center"}
+```{r mODa-logo, out.width = "70%", fig.align = "center"}
 knitr::include_graphics("images/moda14.png")
 ```
 `
@@ -23,7 +23,7 @@ The scientific workshops on model-oriented data analysis and optimum design (mOD
 
 mODa14 will take place from June 14 till June 19 2026 in Drongen Abbey, Belgium
 
-<!-- <!-- For details, see mODa charter (pdf). --> -->
+<!-- For details, see mODa charter (pdf). -->
 
 <!-- mODa is (generally) organized every three years, with the previous mODa12 held in Smolenice, Slovakia. After a short Covid-induced delay, the 13th edition of the workshop series will be held in Southampton, UK, 9-14 July 2023. -->
 
@@ -31,4 +31,6 @@ mODa14 will take place from June 14 till June 19 2026 in Drongen Abbey, Belgium
 
 <!-- ```{r, echo = FALSE, out.width = "40%",fig.show = 'hold', fig.align = 'center', fig.cap = ""} -->
 <!-- knitr::include_graphics(c("images/ICMS.png", "images/soton_logo.jpeg", "images/jmp.png", "images/janssen.png", "images/cup.png")) -->
-<!-- ```  -->
+<!-- ``` -->
+
+

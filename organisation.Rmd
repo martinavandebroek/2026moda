@@ -10,19 +10,19 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **mODa14 organising committee**
 
- 
+  - [Peter Goos](https://www.kuleuven.be/wieiswie/en/person/00006560) (local organiser of mODa14)
  - [Martina Vandebroek](https://www.kuleuven.be/wieiswie/en/person/00004359) (local organiser of mODa14)
- - [Peter Goos](https://www.kuleuven.be/wieiswie/en/person/00006560) (local organiser of mODa14)
  - [Dave Woods](https://statsdavew.github.io) (local organiser of mODa13)
- - [David Ginshourger] (local organiser of mODa15)
+ - [David Ginsbourger](https://ginsbourger.github.io/) (local organiser of mODa15)
  
  
 **mODa board**
   
- - [Holger Dette](https://www.ruhr-uni-bochum.de/mathematik3/en/dette.html)
+ - [Holger Dette](https://www.ruhr-uni-bochum.de/mathematik3/en/dette.html) 
+  - [Jesús López Fidalgo](https://lopezfidalgosite.wordpress.com)
+ - [David Ginsbourger](https://ginsbourger.github.io/) 
  - [Peter Goos](https://www.kuleuven.be/wieiswie/en/person/00006560) 
  - [Radoslav Harman](http://www.iam.fmph.uniba.sk/ospm/Harman/)
- - [Jesús López Fidalgo](https://lopezfidalgosite.wordpress.com)
  - [Tobias Mielke](https://www.linkedin.com/in/tobias-mielke-44173072/)
  - [Christine Müller](https://www.statistik.tu-dortmund.de/mueller1.html)
  - [Werner Müller](https://www.jku.at/institut-fuer-angewandte-statistik/ueber-uns/team/univ-prof-mag-dr-werner-g-mueller/)
@@ -31,7 +31,6 @@ knitr::opts_chunk$set(echo = FALSE)
  - [Dariusz Uciński](http://staff.uz.zgora.pl/ducinski/viewpage.php?page_id=12)
  - [Martina Vandebroek](https://www.kuleuven.be/wieiswie/en/person/00004359)
  - [Dave Woods](https://statsdavew.github.io)
- - [Henry Wynn](https://www.lse.ac.uk/CATS/People/Henry-Wynn-homepage)
  - [Anatoly Zhigljavsky](https://www.cardiff.ac.uk/people/view/98671-zhigljavsky-anatoly)
  
 **Honorary lifetime invitees**
